@@ -39,6 +39,11 @@ public class Matricula {
                 " | Disciplina: " + disciplina.getNome() +
                 " | Média: " + String.format("%.2f", calcularMedia()) +
                 " | Status: " + verificarStatus();
+
     }
+    public Aluno getAluno() {
+        return aluno;
+    }
+
 }
 
