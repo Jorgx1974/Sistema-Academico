@@ -16,6 +16,7 @@ private List<Matricula> matriculas = new ArrayList<>();
 
 private Scanner sc = new Scanner(System.in);
 
+
     public void cadastrarAluno() {
         System.out.print("ID do aluno: ");
         int id = sc.nextInt();

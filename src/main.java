@@ -2,7 +2,7 @@ package SistemaAcademico.src;
 
 
 import SistemaAcademico.service.SistemaService;
-import SistemaAcademico.until.MenuUtil;
+import SistemaAcademico.util.MenuUtil;
 
 
 import java.util.Scanner;

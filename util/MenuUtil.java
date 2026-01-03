@@ -1,4 +1,4 @@
-package SistemaAcademico.until;
+package SistemaAcademico.util;
 
 public class MenuUtil {
 public static  void mostrarMenu(){
